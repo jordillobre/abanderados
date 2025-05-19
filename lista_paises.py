@@ -1,12 +1,5 @@
 paises = [
     {
-        "nombre": "España",
-        "ids": ["españa", "es", "esp", "spain"],
-        "tipo_bandera": "tipo_1",
-        "colores": ["#AA151B", "#F1BF00", "#AA151B"],
-        "fondo": "#FFFFFF"
-    },
-    {
         "nombre": "Alemania",
         "ids": ["alemania", "de", "ger", "germany"],
         "tipo_bandera": "tipo_1",
@@ -28,6 +21,13 @@ paises = [
         "fondo": "#000000"
     },
     {
+        "nombre": "Benín",
+        "ids": ["benin", "bj", "ben"],
+        "tipo_bandera": "tipo_3",
+        "colores": ["#008751", "#FCD116", "#E8112D"],
+        "fondo": "#FFFFFF"
+    },
+    {
         "nombre": "Bolivia",
         "ids": ["bolivia", "bo", "bol"],
         "tipo_bandera": "tipo_1",
@@ -42,10 +42,115 @@ paises = [
         "fondo": "#000000"
     },
     {
-        "nombre": "Ucrania",
-        "ids": ["ucrania", "ua"],
+        "nombre": "España",
+        "ids": ["españa", "es", "esp", "spain"],
         "tipo_bandera": "tipo_1",
-        "colores": ["#0057B7", "#FFDD00"],
+        "colores": ["#AA151B", "#F1BF00", "#AA151B"],
+        "fondo": "#FFFFFF"
+    },
+    {
+        "nombre": "Estonia",
+        "ids": ["estonia", "ee", "est"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#0072CE", "#000000", "#FFFFFF"],
+        "fondo": "#9b9b9b"
+    },
+    {
+        "nombre": "Etiopía",
+        "ids": ["etiopía", "etiopia", "et"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#078930", "#FDE642", "#DA121A"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Finlandia",
+        "ids": ["finlandia", "fi", "fin", "finland"],
+        "tipo_bandera": "tipo_5",
+        "colores": None,
+        "fondo": "#FFFFFF"
+    },
+    {
+        "nombre": "Gabón",
+        "ids": ["gabon", "gabón", "ga", "gab"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#009E60", "#FCD116", "#4664B2"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Hungría",
+        "ids": ["hungría", "hungria", "hu"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#CE2939", "#FFFFFF", "#477050"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Indonesia",
+        "ids": ["indonesia", "id", "idn"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#ff0000", "#FFFFFF"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Italia",
+        "ids": ["italia", "it", "ita", "italy"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#008C45", "#F4F5F0", "#CD212A"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Japón",
+        "ids": ["japon", "jp", "jpn", "japan"],
+        "tipo_bandera": "tipo_4",
+        "colores": None,
+        "fondo": "#FFFFFF"
+    },
+    {
+        "nombre": "Lituania",
+        "ids": ["lituania", "lt", "lit"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#FFB81C", "#046A38", "#BE3A34"],
+        "fondo": "#FFFFFF"
+    },
+    {
+        "nombre": "Luxemburgo",
+        "ids": ["luxemburgo", "lu"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#CE1126", "#FFFFFF", "#51ADDA"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Mauricio",
+        "ids": ["mauricio", "mu"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#EA2839", "#1A206D", "#FFD500", "#00A551"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Mónaco",
+        "ids": ["mónaco", "monaco", "mc"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#CE1126", "#FFFFFF"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Países Bajos",
+        "ids": ["países bajos", "paises bajos", "nl", "nld"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#C8102E", "#FFFFFF", "#003DA5"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Polonia",
+        "ids": ["polonia", "pl"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#DC143C", "#FFFFFF"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Rusia",
+        "ids": ["rusia", "rus", "ru"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#FFFFFF", "#0036A7", "#D62718"],
         "fondo": "#000000"
     },
     {
@@ -56,38 +161,17 @@ paises = [
         "fondo": "#000000"
     },
     {
-        "nombre": "Estonia",
-        "ids": ["estonia", "ee", "est"],
+        "nombre": "Ucrania",
+        "ids": ["ucrania", "ua"],
         "tipo_bandera": "tipo_1",
-        "colores": ["#0072CE", "#000000", "#FFFFFF"],
-        "fondo": "#9b9b9b"
-    },
-    {
-        "nombre": "Italia",
-        "ids": ["italia", "it", "ita", "italy"],
-        "tipo_bandera": "tipo_2",
-        "colores": ["#008C45", "#F4F5F0", "#CD212A"],
+        "colores": ["#0057B7", "#FFDD00"],
         "fondo": "#000000"
     },
     {
-        "nombre": "Benín",
-        "ids": ["benin", "bj", "ben"],
-        "tipo_bandera": "tipo_3",
-        "colores": ["#008751", "#FCD116", "#E8112D"],
-        "fondo": "#FFFFFF"
-    },
-    {
-        "nombre": "Japón",
-        "ids": ["japon", "jp", "jpn", "japan"],
-        "tipo_bandera": "tipo_4",
-        "colores": None,
-        "fondo": "#FFFFFF"
-    },
-    {
-        "nombre": "Finlandia",
-        "ids": ["finlandia", "fi", "fin", "finland"],
-        "tipo_bandera": "tipo_5",
-        "colores": None,
-        "fondo": "#FFFFFF"
+        "nombre": "Yemen",
+        "ids": ["yemen", "ye", "yem"],
+        "tipo_bandera": "tipo_1",
+        "colores": ["#CE1126", "#FFFFFF", "#000000"],
+        "fondo": "#9b9b9b"
     }
 ]
