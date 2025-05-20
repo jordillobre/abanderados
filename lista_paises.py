@@ -21,8 +21,15 @@ paises = [
         "fondo": "#000000"
     },
     {
+        "nombre": "Bélgica",
+        "ids": ["bélgica", "belgica", "be", "bel"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#2D2926", "#FFCD00", "#C8102E"],
+        "fondo": "#FFFFFF"
+    },
+    {
         "nombre": "Benín",
-        "ids": ["benin", "bj", "ben"],
+        "ids": ["benin", "benín", "bj", "ben"],
         "tipo_bandera": "tipo_3",
         "colores": ["#008751", "#FCD116", "#E8112D"],
         "fondo": "#FFFFFF"
@@ -39,6 +46,13 @@ paises = [
         "ids": ["bulgaria", "bg", "bgr"],
         "tipo_bandera": "tipo_1",
         "colores": ["#FFFFFF", "#00966E", "#D62612"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Costa de Marfil",
+        "ids": ["costa de marfil", "ci", "civ"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#FF8200", "#FFFFFF", "#009A44"],
         "fondo": "#000000"
     },
     {
@@ -70,11 +84,25 @@ paises = [
         "fondo": "#FFFFFF"
     },
     {
+        "nombre": "Francia",
+        "ids": ["francia", "fr", "fra"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#000091", "#FFFFFF", "#E1000F"],
+        "fondo": "#000000"
+    },
+    {
         "nombre": "Gabón",
         "ids": ["gabon", "gabón", "ga", "gab"],
         "tipo_bandera": "tipo_1",
         "colores": ["#009E60", "#FCD116", "#4664B2"],
         "fondo": "#000000"
+    },
+    {
+        "nombre": "Guinea",
+        "ids": ["guinea", "gn", "gin"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#CE1126", "#FCD116", "#009460"],
+        "fondo": "#FFFFFF"
     },
     {
         "nombre": "Hungría",
@@ -88,6 +116,13 @@ paises = [
         "ids": ["indonesia", "id", "idn"],
         "tipo_bandera": "tipo_1",
         "colores": ["#ff0000", "#FFFFFF"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Irlanda",
+        "ids": ["irlanda", "ie"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#009A44", "#F4F5F0", "#FF8200"],
         "fondo": "#000000"
     },
     {
@@ -119,6 +154,13 @@ paises = [
         "fondo": "#000000"
     },
     {
+        "nombre": "Mali",
+        "ids": ["mali", "mli"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#14B53A", "#FCD116", "#CE1126"],
+        "fondo": "#FFFFFF"
+    },
+    {
         "nombre": "Mauricio",
         "ids": ["mauricio", "mu"],
         "tipo_bandera": "tipo_1",
@@ -133,6 +175,13 @@ paises = [
         "fondo": "#000000"
     },
     {
+        "nombre": "Nigeria",
+        "ids": ["nigeria", "nga", "ng"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#1B7339", "#FFFFFF", "#1B7339"],
+        "fondo": "#000000"
+    },
+    {
         "nombre": "Países Bajos",
         "ids": ["países bajos", "paises bajos", "nl", "nld"],
         "tipo_bandera": "tipo_1",
@@ -140,10 +189,31 @@ paises = [
         "fondo": "#000000"
     },
     {
+        "nombre": "Perú",
+        "ids": ["perú", "peru", "pe"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#C8102E", "#FFFFFF", "#C8102E"],
+        "fondo": "#000000"
+    },
+    {
         "nombre": "Polonia",
         "ids": ["polonia", "pl"],
         "tipo_bandera": "tipo_1",
         "colores": ["#DC143C", "#FFFFFF"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "República del Chad",
+        "ids": ["chad", "república del chad", "republica del chad", "cha"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#002664", "#FECB00", "#C60C30"],
+        "fondo": "#000000"
+    },
+    {
+        "nombre": "Rumania",
+        "ids": ["rumania", "ro", "rom"],
+        "tipo_bandera": "tipo_2",
+        "colores": ["#002B7F", "#FCD116", "#CE1126"],
         "fondo": "#000000"
     },
     {
